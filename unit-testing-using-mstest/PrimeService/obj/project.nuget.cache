@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2i6TFUfgwaxW4lRH7idbsSY5ysdVJ4BQFKKM0kptffQl0AUcmRChtAyklJLKDq5Pkgx8gl2ndn+oubtxdos3w==",
+  "success": true,
+  "projectFilePath": "D:\\school stuff\\kozłowski\\given upen\\Kozowski_-_TestyUnit\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CloneClown\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CloneClown\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
